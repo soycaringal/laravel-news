@@ -21,5 +21,5 @@ php artisan migrate --seed
 php artisan serve
 
 # Access project
-http://localhost:8080
+http://localhost:8000
 ```
